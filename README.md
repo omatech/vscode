@@ -16,7 +16,9 @@
 ### Extensiones PHP
 
 * phpcs
+  * https://github.com/squizlabs/PHP_CodeSniffer
 * php cs fixer
+  * https://github.com/FriendsOfPHP/PHP-CS-Fixer
 * PHP Intelephense
 * PHP Namespace Resolver
 * PHP DocBlocker
