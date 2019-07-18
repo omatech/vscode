@@ -4,6 +4,17 @@
 
 * GitLens
 * Local History
+```json
+"files.exclude": {
+    "**/.history": true
+},
+"files.watcherExclude": {
+    "**/.history/*/**": true
+},
+"search.exclude": {
+    "**/.history": true
+}
+```
 * IntelliJ IDEA Keybindings
 
 ## PHP
