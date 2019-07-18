@@ -28,8 +28,16 @@
 
 * phpcs
   * https://github.com/squizlabs/PHP_CodeSniffer
+  ```json
+      "phpcs.executablePath": "~/.composer/vendor/bin/phpcs",
+      "phpcs.standard": "PSR2",
+  ```
 * php cs fixer
   * https://github.com/FriendsOfPHP/PHP-CS-Fixer
+  ```json
+      "php-cs-fixer.executablePath": "~/.composer/vendor/bin/php-cs-fixer",
+      "php-cs-fixer.rules": "@PSR2"
+  ```
 * PHP Intelephense
 * PHP Namespace Resolver
 * PHP DocBlocker
