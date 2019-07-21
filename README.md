@@ -36,6 +36,13 @@
 * PHP Namespace Resolver
 * PHP DocBlocker
 * PHP Debug
+```
+/etc/php/7.3/cli/conf.d/20-xdebug.ini
+```
+```bash
+xdebug.remote_enable = 1
+xdebug.remote_autostart = 1
+```
 * PHPUnit Test Explorer
 
 ### Extensiones Laravel
