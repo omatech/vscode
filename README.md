@@ -35,8 +35,8 @@
 * PHP Intelephense
 * PHP Namespace Resolver
 * PHP DocBlocker
-* PHP Getters & Setters
 * PHP Debug
+* PHPUnit Test Explorer
 
 ### Extensiones Laravel
 
