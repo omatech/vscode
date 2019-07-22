@@ -46,8 +46,8 @@
 * PHP Intelephense
 * PHP Namespace Resolver
 * PHP DocBlocker
-* PHP Debug
 * PHP Getters & Setters
+* PHP Debug
 ```
 /etc/php/7.3/cli/conf.d/20-xdebug.ini
 ```
