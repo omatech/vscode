@@ -16,6 +16,17 @@
 }
 ```
 * IntelliJ IDEA Keybindings
+* Spanish Language Pack for Visual Studio Code
+
+## Themes
+
+* Atom One Dark Theme
+* Material Icon Theme
+* Material Theme
+
+## Windows
+
+* Remote - WSL
 
 ## PHP
 
@@ -36,6 +47,7 @@
 * PHP Namespace Resolver
 * PHP DocBlocker
 * PHP Debug
+* PHP Getters & Setters
 ```
 /etc/php/7.3/cli/conf.d/20-xdebug.ini
 ```
@@ -50,3 +62,8 @@ xdebug.remote_autostart = 1
 * Laravel Blade Snippets
 * Laravel goto view
 * laravel-goto-controller
+
+## JavaScript
+
+* Import Cost
+
